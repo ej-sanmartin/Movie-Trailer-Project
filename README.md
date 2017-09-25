@@ -5,6 +5,8 @@ Description
 -----------------------
 
 A project completed for Udacity's Fullstack Nanodegree. 
+
+
 In this project, I wrote server-side Python code to store a list of my favourite movies,
 including box art imagery and a movie trailer URL. I then used the code to generate a 
 static web page allowing visitors to browse the movies I input and watch their trailers.
