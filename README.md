@@ -16,14 +16,14 @@ This project was my chance to write my first application that is accesible via a
 Requirements
 -----------------------
 
-To run the program, must have version 2.7 of Python as well as IDLE downloaded.
+To run the program, you must have version 2.7 of Python as well as IDLE downloaded.
 Also, all files in this project must be in the same folder.
 
 
 Instructions to Run Program
 -----------------------
 
-In idle, open media.py and choose the run option in the toolbar. 
+In IDLE, open media.py and choose the run option in the toolbar. 
 In addition to choosing the run option, you can press f5 on your keyboard.
 
 
