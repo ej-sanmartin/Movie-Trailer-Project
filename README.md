@@ -26,6 +26,7 @@ Instructions to Run Program
 In IDLE, open media.py and choose the run option in the toolbar. 
 In addition to choosing the run option, you can press f5 on your keyboard.
 
+Alternatively, in the terminal enter `python media.py` and a static webpage will be generated on your default browser.
 
 Author/ Contributions
 -----------------------
