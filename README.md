@@ -22,8 +22,8 @@ In addition to choosing the run option, you can press f5 on your keyboard.
 
 Author/ Contributions
 -----------------------
-*Edgar J San Martin (all other files, including this README)
-*Udacity (fresh_tomatoes.py file)
++Edgar J San Martin (all other files, including this README)
++Udacity (fresh_tomatoes.py file)
 
 Copyright
 -----------------------
